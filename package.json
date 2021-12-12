@@ -1,0 +1,29 @@
+{
+  "name": "see-event-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wiwiewei18/see-event-backend.git"
+  },
+  "author": "Wiwie Sanjaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wiwiewei18/see-event-backend/issues"
+  },
+  "homepage": "https://github.com/wiwiewei18/see-event-backend#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-validator": "^6.14.0",
+    "jsonwebtoken": "^8.5.1",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.12.0-beta.3"
+  }
+}
